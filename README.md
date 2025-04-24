@@ -18,7 +18,7 @@ Note: If you've previously set a language server and want to try Pylance, make s
 Features
 =========
 
-<img src=images/all-features.gif>
+![ features ](images/all-features.gif)
 
 Pylance provides some awesome features for Python 3, including:
 
